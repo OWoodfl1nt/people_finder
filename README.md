@@ -1,6 +1,6 @@
 # people_finder
 
-Hi all, I am from London and love to take photos.
+Hi all, I am from London, I like taking photos and open source projects. 
 
 Follow me on twitter: @OWoodflint
 
